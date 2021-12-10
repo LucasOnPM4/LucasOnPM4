@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @LucasOnPM4
 - 👀 I’m interested in to PM4
+- 💻 I’am learning PHP
+- 
 
 <!---
 LucasOnPM4/LucasOnPM4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
